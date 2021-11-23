@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Product Strategy
+    title: Dan Barak
     text: >
       I'm [Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com)'s
       co-founder, empowering developers and designers to build the modern web.

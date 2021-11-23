@@ -6,7 +6,10 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Product Strategy
-    text: "Co-Founder and COO at\_[Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com), empowering developers and designers to build the modern web. Ex-Lyft, Ex-Facebook.\n"
+    text: >
+      I'm [Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com)'s
+      co-founder, empowering developers and designers to build the modern web.
+      Ex-Lyft, Ex-Facebook.
     actions: []
     media:
       type: ImageBlock

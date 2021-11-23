@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     backgroundImage:
-      url: /images/200px - Dan Barak Portrait Profile Photo Square.jpg
+      url: /images/400px - Dan Barak Portrait Profile Photo Square copy.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''

@@ -155,6 +155,7 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
+    title: Companies I've worked with
   - colors: colors-h
     elementId: ''
     title: My Services

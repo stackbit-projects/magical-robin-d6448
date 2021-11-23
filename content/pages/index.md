@@ -10,7 +10,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/200px - Dan Barak Portrait Profile Photo Square.jpg
       altText: Image alt text
       caption: Image caption
     styles:

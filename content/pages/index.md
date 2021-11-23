@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: 'Love where you work, because work loves you'
-    text: "Co-Founder and Chief Operating Officer at\_[Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com), empowering developers and designers to build the modern web. Ex-Lyft, Ex-Facebook.\n"
+    text: "Co-Founder and COO at\_[Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com), empowering developers and designers to build the modern web. Ex-Lyft, Ex-Facebook.\n"
     actions:
       - type: Button
         label: Sign up

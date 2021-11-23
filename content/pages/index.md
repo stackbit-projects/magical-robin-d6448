@@ -41,15 +41,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    backgroundImage:
-      url: /images/400px - Dan Barak Portrait Profile Photo Square copy.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?

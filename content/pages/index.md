@@ -7,12 +7,7 @@ sections:
     colors: colors-a
     title: Product Strategy
     text: "Co-Founder and COO at\_[Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com), empowering developers and designers to build the modern web. Ex-Lyft, Ex-Facebook.\n"
-    actions:
-      - type: Button
-        label: Reach Out
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
+    actions: []
     media:
       type: ImageBlock
       url: /images/200px - Dan Barak Portrait Profile Photo Square.jpg

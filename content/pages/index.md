@@ -48,7 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/200px - Dan Barak Portrait Profile Photo Square.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''

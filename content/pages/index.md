@@ -6,10 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: 'Love where you work, because work loves you'
-    text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "Co-Founder and Chief Operating Officer at\_[Stackbit](https://dan-profile-vanilla.netlify.com/www.stackbit.com), empowering developers and designers to build the modern web. Ex-Lyft, Ex-Facebook.\n"
     actions:
       - type: Button
         label: Sign up

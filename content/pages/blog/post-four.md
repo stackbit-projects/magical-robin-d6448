@@ -50,7 +50,7 @@ bottomSections:
       actions:
         justifyContent: flex-start
 ---
-This post is direct and personal, so let me introduce myself. My name is Dan Barak — I’ve been at Lyft for almost 2 years, supporting the Growth Platforms teams, after spending more than 4 years at Facebook. I’m also very passionate about recruiting and interviewing and am actively working to make these processes better at Lyft.![](https://miro.medium.com/max/60/1\*9BBx6upFv1m5KQLMrt0H_w.png?q=20)![](https://miro.medium.com/max/1400/1\*9BBx6upFv1m5KQLMrt0H_w.png)![](https://miro.medium.com/max/60/1\*7yaSTI\_36o2kVQDcUFXJPw.png?q=20)![](https://miro.medium.com/max/1400/1\*7yaSTI\_36o2kVQDcUFXJPw.png)
+This post is direct and personal, so let me introduce myself. My name is Dan Barak — I’ve been at Lyft for almost 2 years, supporting the Growth Platforms teams, after spending more than 4 years at Facebook. I’m also very passionate about recruiting and interviewing and am actively working to make these processes better at Lyft.
 
 At Lyft, we view hiring as one of the most important and leveraged responsibilities PMs have. Our goals are to both hire great talent, as well as provide the best experience for candidates.
 
@@ -69,6 +69,8 @@ That probably sounded a little too vague and corporate-y, so let’s bring it do
 **Lyft’s Core Values**
 
 Bear with me… you should already know I’m not about empty slogans :)
+
+![](/images/1\_9BBx6upFv1m5KQLMrt0H_w.png)
 
 You’ll get plenty of chances to prove you embody the latter two, but start by being yourself!
 
@@ -109,6 +111,8 @@ Remember my tip about being yourself? Your aim is **not** to please the interv
 Your interviewer cares much more about the “why” over the “what”, so treat them as you would a team member you’re trying to bring along with you on a journey, not as an interrogator you have to appease with the “right” answer.
 
 Finally, a few minutes before the end of your time, it’ll be your turn to ask us questions. Use that time to try to figure out if you would like to come work for Lyft and spend the next several years with people like your interviewer. As I’ve mentioned — we will not sugarcoat answers just to reel you in (and then mutually discover later it’s a mismatch). Ask us about challenges, culture, etc., but please don’t ask us about some niche detail of our product or roadmap — we might not be able to divulge that information, nor will it give you with the signal you need.
+
+****![](/images/1\_7yaSTI\_36o2kVQDcUFXJPw.png)
 
 **Interview Roles**
 
